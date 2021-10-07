@@ -1,2 +1,2 @@
-# scripts-for-HTTP
-## These will be simple scripts to make HTTP requests and read responses using python.
+# simple scripts
+## These are the simple scripts i wrote while learning coding.
